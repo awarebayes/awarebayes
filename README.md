@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: RecNN
-- 🌱 I’m currently learning: Reinforcement Learning, Functional Programming, Haskell
+- 🌱 I’m currently learning: Reinforcement Learning, Computer Vision
 - 👯 I’m looking to collaborate on: ML/DL Projects
 - 🤔 I’m looking for help with RecNN: (testing, writing docs, adding features)
 - 💬 Ask me about: my library
